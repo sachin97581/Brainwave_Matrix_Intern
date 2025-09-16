@@ -1,4 +1,4 @@
-[Hospital_mgt..pdf](https://github.com/u<img width="1437" height="814" alt="Screenshot 2025-09-16 180330" src="https://github.com/user-attachments/assets/45b48c0f-bd0e-43f9-a102-bc86f00c6e7e" />
+[Hospital_mgt..pdf](https://github.com/u<img width="1437" height="800" alt="Screenshot 2025-09-16 180330" src="https://github.com/user-attachments/assets/45b48c0f-bd0e-43f9-a102-bc86f00c6e7e" />
 
 ### This design covers:
 
